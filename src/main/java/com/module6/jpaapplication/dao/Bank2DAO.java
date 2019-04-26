@@ -1,4 +1,4 @@
-package com.module6.jpaapplication.DAO;
+package com.module6.jpaapplication.dao;
 
 import com.module6.jpaapplication.entity.Bank;
 import com.module6.jpaapplication.entity.ClientBank;

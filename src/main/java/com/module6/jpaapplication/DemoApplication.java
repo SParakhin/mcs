@@ -6,7 +6,7 @@
 
 package com.module6.jpaapplication;
 
-import com.module6.jpaapplication.DAO.Bank2DAO;
+import com.module6.jpaapplication.dao.Bank2DAO;
 import com.module6.jpaapplication.entity.AccountType;
 import com.module6.jpaapplication.entity.Bank;
 import com.module6.jpaapplication.entity.ClientBank;
