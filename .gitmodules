@@ -1,0 +1,3 @@
+[submodule "mcs-module6"]
+	path = mcs-module6
+	url = https://github.com/SParakhin/mcs-module6.git
