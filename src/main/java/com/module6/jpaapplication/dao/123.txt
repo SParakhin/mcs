@@ -1,1 +1,2 @@
 test file from submodule
+test sub from 2 branch
